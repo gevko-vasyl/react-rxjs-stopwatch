@@ -1,0 +1,26 @@
+.ControllButtons__container {
+  margin-top: 90px;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+
+  & div {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  & button {
+    width: 150px;
+    border-radius: 4px;
+    padding: 12px 24px;
+    background-color: #3f51b5;
+    color: #fff;
+    font-weight: 500;
+    cursor: pointer;
+
+    &:disabled {
+      background-color: #a9a9a9;
+      cursor: default;
+    }
+  }
+}
