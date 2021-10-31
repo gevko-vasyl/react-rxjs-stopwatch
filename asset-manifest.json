@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-rxjs-stopwatch/static/css/main.cc855510.chunk.css",
+    "main.js": "/react-rxjs-stopwatch/static/js/main.6a705bd9.chunk.js",
+    "main.js.map": "/react-rxjs-stopwatch/static/js/main.6a705bd9.chunk.js.map",
+    "runtime-main.js": "/react-rxjs-stopwatch/static/js/runtime-main.66e477b7.js",
+    "runtime-main.js.map": "/react-rxjs-stopwatch/static/js/runtime-main.66e477b7.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/react-rxjs-stopwatch/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.b4b98602.chunk.js": "/react-rxjs-stopwatch/static/js/2.b4b98602.chunk.js",
+    "static/js/2.b4b98602.chunk.js.map": "/react-rxjs-stopwatch/static/js/2.b4b98602.chunk.js.map",
+    "index.html": "/react-rxjs-stopwatch/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/react-rxjs-stopwatch/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.cc855510.chunk.css.map": "/react-rxjs-stopwatch/static/css/main.cc855510.chunk.css.map",
+    "static/js/2.b4b98602.chunk.js.LICENSE.txt": "/react-rxjs-stopwatch/static/js/2.b4b98602.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66e477b7.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.b4b98602.chunk.js",
+    "static/css/main.cc855510.chunk.css",
+    "static/js/main.6a705bd9.chunk.js"
+  ]
+}
